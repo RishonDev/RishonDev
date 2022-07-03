@@ -6,7 +6,7 @@
   Linux
   
 - 💞️ I’m looking to collaborate on ...
-  Application development
+  Application development,
   Linux Software Development
   
 - 📫 How to reach me ...
