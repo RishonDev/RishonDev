@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RishonDev
-- 👀 I’m interested in ...
+-  Hi, I’m Rishon
+-  I’m interested in ...
   Application development and Linux.
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
   Java Swing,
   Linux
   
@@ -9,7 +9,7 @@
   Application development,
   Linux Software Development
   
-- 📫 How to reach me ...
+-  How to reach me ...
   Gmail: mithicalaviator85@gmail.com
 
 - Visit all my projects
