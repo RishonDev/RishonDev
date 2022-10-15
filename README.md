@@ -13,4 +13,4 @@
   Gmail: mithicalaviator85@gmail.com
 
 - Visit all my projects
-https://rishondev.github.io/projects
+https://javaopensoft.github.io
