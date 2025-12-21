@@ -18,28 +18,13 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 
 ### 🔨 My recent Pull Requests
 
-- [update to include publish version checks](https://github.com/ChrisTitusTech/linutil/pull/1169) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [dwm-tag update](https://github.com/ChrisTitusTech/dwm-titus/pull/76) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [implement mouse locking](https://github.com/ChrisTitusTech/dwm-titus/pull/75) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [Potential fix for code scanning alert no. 8: Workflow does not contain permissions](https://github.com/ChrisTitusTech/linutil/pull/1167) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [fix sorting in linutil](https://github.com/ChrisTitusTech/linutil/pull/1165) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
-- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2&#43;/XeSS/FSR2&#43; inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-- [ashpynov/AnyFSE](https://github.com/ashpynov/AnyFSE) - 
-- [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
-- [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
-- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 ### 📰 Recent Blog Posts
 
-- [Enable Vrr Xorg](https://christitus.com/enable-vrr-xorg/)
-- [Prioritize Ipv4 Over Ipv6 Linux](https://christitus.com/prioritize-ipv4-over-ipv6-linux/)
-- [Track Changes Word Author Macro](https://christitus.com/track-changes-word-author-macro/)
-- [How Vulnerable Windows Users Are by Update](https://christitus.com/how-vulnerable-windows-users-are-by-update/)
-- [Patching Programs From Forks](https://christitus.com/patching-programs-from-forks/)
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
+  - Youtube   : 
+  - Twitch    : 
+  - Twitter   : 
+  - Website   : 
+  - Web Store : 
