@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
 
 <a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
@@ -9,22 +8,14 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/RishonDev/RishonDev/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
-- [ChrisTitusTech/vkbasalt-conf](https://github.com/ChrisTitusTech/vkbasalt-conf) - Linux version of reshade, but better
-- [ChrisTitusTech/arc-raiders](https://github.com/ChrisTitusTech/arc-raiders) - 
-- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
-- [ChrisTitusTech/twitch-tools](https://github.com/ChrisTitusTech/twitch-tools) - 
+
 ### 🌱 My latest projects
 
-- [ChrisTitusTech/arc-raiders](https://github.com/ChrisTitusTech/arc-raiders) - 
-- [ChrisTitusTech/aoe4](https://github.com/ChrisTitusTech/aoe4) - aoe4.christitus.com website and scripts
-- [ChrisTitusTech/aoe4-config](https://github.com/ChrisTitusTech/aoe4-config) - Key binds and hotkey file for aoe4 in documents/my games/age of empires iv
-- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO
-- [ChrisTitusTech/dwm-titus-docs](https://github.com/ChrisTitusTech/dwm-titus-docs) - Documentation Website for DWM-Titus
+
 ### 🔨 My recent Pull Requests
 
 - [update to include publish version checks](https://github.com/ChrisTitusTech/linutil/pull/1169) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
