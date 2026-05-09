@@ -1,6 +1,6 @@
-Hi 👋 My name is Rishon Jonathan \
+Hi 👋 My name is Rishon Jonathan 
 
-=======Java Swing Dev, Linux Enthusiast------
+# Linux Reverse Engineering • Java Developer
 
 Linux enthusiast and developer focused on Apple T2 Linux support, reverse engineering, AMDGPU/display debugging, and open-source tooling. Also interested in Java development and desktop applications.
 
