@@ -10,7 +10,7 @@ I build apps and integrations for the Linux desktop, mostly in C++ and Qt for KD
 - ☕ **Java**: Swing desktop apps and libraries ([JADT](https://github.com/RishonDev/JADT), [AstraWriter](https://github.com/RishonDev/AstraWriter), [wine-installer](https://github.com/RishonDev/wine-installer))
 
 - 🌍 Based in India
-- ✉️ Contact: rishonsishya at gmail dot com
+- ✉️ Contact: mithicalaviator85@gmail.com
 - 🧠 Currently learning: Qt/QML, KDE Frameworks, Linux packaging, Java Spring
 - 👥 Open to collaborating on KDE, Linux desktop and Java projects
 
@@ -30,6 +30,8 @@ I build apps and integrations for the Linux desktop, mostly in C++ and Qt for KD
 </p>
 
 ### GitHub Stats
+
+<p align="left"><img src="github-metrics.svg" alt="RishonDev's GitHub metrics, with a 3D contributions calendar" /></p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RishonDev&show_icons=true&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true" alt="RishonDev's GitHub stats" />
