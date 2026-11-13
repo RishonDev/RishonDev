@@ -31,6 +31,8 @@ I build apps and integrations for the Linux desktop, mostly in C++ and Qt for KD
 
 ### GitHub Stats
 
+<p align="left"><img src="github-metrics.svg" alt="RishonDev's GitHub metrics, with a 3D contributions calendar" /></p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RishonDev&show_icons=true&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true" alt="RishonDev's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=RishonDev&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="RishonDev's GitHub streak" />
