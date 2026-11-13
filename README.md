@@ -1,34 +1,51 @@
-Hi 👋 My name is Rishon Jonathan 
+# Hi 👋, I'm Rishon Jonathan
 
-# Linux Reverse Engineering • Java Developer
+### KDE Plasma & Linux Desktop Developer • Java Developer
 
-Linux enthusiast and developer focused on Apple T2 Linux support, reverse engineering, AMDGPU/display debugging, and open-source tooling. Also interested in Java development and desktop applications.
+I build apps and integrations for the Linux desktop, mostly in C++ and Qt for KDE Plasma, and I package them for Arch, Debian, Ubuntu and Fedora. I also work on hardware support for Intel Macs with a T2 chip and write desktop apps and tools in Java.
 
-* 🌍 Based in India
-* ✉️ Contact: rishonsishya@gmail.com
-* 🧠 Currently learning Linux internals, hardware debugging, Java Swing, Java Spring, Bash, and Zsh.
-* 👥 Open to collaborating on Linux and Java tooling projects
+- 🔐 **[Kenning](https://github.com/RishonDev/kenning)**: face unlock for KDE Plasma, covering the lock screen, login screen, sudo and System Settings
+- 👀 **[klook](https://github.com/RishonDev/klook)**: Quick Look for KDE Plasma, so pressing Space in Dolphin previews the file
+- 🍎 **T2 Macs**: suspend, keyboard backlight and Touch Bar fixes ([t2-kbd-tb](https://github.com/RishonDev/t2-kbd-tb), [t2-upower](https://github.com/RishonDev/t2-upower)) and AMD GPU boot patches
+- ☕ **Java**: Swing desktop apps and libraries ([JADT](https://github.com/RishonDev/JADT), [AstraWriter](https://github.com/RishonDev/AstraWriter), [wine-installer](https://github.com/RishonDev/wine-installer))
 
+- 🌍 Based in India
+- ✉️ Contact: rishonsishya at gmail dot com
+- 🧠 Currently learning: Qt/QML, KDE Frameworks, Linux packaging, Java Spring
+- 👥 Open to collaborating on KDE, Linux desktop and Java projects
 
-<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a> </p> 
+### Tools
 
- ### Socials  <p align="left"> <a href="https://www.github.com/RIshonDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@rishon_j85" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/rishon-jonathan-r-42870727a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20654602/rishon-jr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
- 
-### Badges
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,c,java,py,bash,cmake,linux,arch,git,vim,vscode" alt="C++, Qt, C, Java, Python, Bash, CMake, Linux, Arch Linux, Git, Vim, VS Code" />
+</p>
 
-<b>My GitHub Stats</b>
+### Socials
 
-<a href="http://www.github.com/RIshonDev"><img src="https://github-readme-stats.vercel.app/api?username=RIshonDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="RIshonDev's GitHub stats" /></a>
-<a href="http://www.github.com/RIshonDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RIshonDev&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-<a href="https://github.com/RIshonDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIshonDev&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<b>Top Repositories</b>
+<p align="left">
+  <a href="https://github.com/RishonDev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a>
+  <a href="https://www.threads.net/@rishon_j85"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /></picture></a>
+  <a href="https://www.linkedin.com/in/rishon-jonathan-r-42870727a/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a>
+  <a href="https://stackoverflow.com/users/20654602/rishon-jr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /></picture></a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/RIshonDev/AstraWriter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIshonDev&repo=AstraWriter&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/RIshonDev/USBToolkit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RIshonDev&repo=USBToolkit&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishonDev&show_icons=true&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true" alt="RishonDev's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=RishonDev&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="RishonDev's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishonDev&langs_count=8&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
+</p>
+
+### Top Repositories
+
+<p align="center">
+  <a href="https://github.com/RishonDev/kenning"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishonDev&repo=kenning&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" alt="kenning" /></a>
+  <a href="https://github.com/RishonDev/klook"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishonDev&repo=klook&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" alt="klook" /></a>
+  <a href="https://github.com/RishonDev/wine-installer"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishonDev&repo=wine-installer&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" alt="wine-installer" /></a>
+  <a href="https://github.com/RishonDev/AstraWriter"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishonDev&repo=AstraWriter&title_color=0891b2&text_color=0891b2&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" alt="AstraWriter" /></a>
+</p>
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/RishonDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/RishonDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" /></a>
