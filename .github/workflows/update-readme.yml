@@ -2,7 +2,7 @@
 # Needs a METRICS_TOKEN secret: a personal access token with the read:user and repo scopes.
 name: Metrics
 on:
-  schedule: [{cron: "0 */6 * * *"}]
+  schedule: cron: "0 0 * * 0"
   workflow_dispatch:
   push: {branches: [main]}
 jobs:
