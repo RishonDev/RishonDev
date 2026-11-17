@@ -2,7 +2,7 @@
 
 ### KDE Plasma & Linux Desktop Developer • Java Developer
 
-I build apps and integrations for the Linux desktop, mostly in C++ and Qt for KDE Plasma, and I package them for Arch, Debian, Ubuntu and Fedora. I also work on hardware support for Intel Macs with a T2 chip and write desktop apps and tools in Java.
+I build apps and integrations for the Linux desktop, mostly in Java, C++ and Qt for KDE Plasma, and I package them for Arch, Debian, Ubuntu and Fedora. I also work on hardware support for Intel Macs with a T2 chip and write desktop apps and tools in Java.
 
 - 🔐 **[Kenning](https://github.com/RishonDev/kenning)**: face unlock for KDE Plasma, covering the lock screen, login screen, sudo and System Settings
 - 👀 **[klook](https://github.com/RishonDev/klook)**: Quick Look for KDE Plasma, so pressing Space in Dolphin previews the file
