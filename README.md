@@ -2,11 +2,10 @@
 
 ### KDE Plasma & Linux Desktop Developer • Java Developer
 
-I build apps and integrations for the Linux desktop, mostly in Java, C++ and Qt for KDE Plasma, and I package them for Arch, Debian, Ubuntu and Fedora. I also work on hardware support for Intel Macs with a T2 chip and write desktop apps and tools in Java.
+I build apps and integrations for the Linux desktop, mostly in Java, C++ and Qt for KDE Plasma, and I package them for Arch, Debian, Ubuntu and Fedora. I also work on desktop apps and tools in Java.
 
 - 🔐 **[Kenning](https://github.com/RishonDev/kenning)**: face unlock for KDE Plasma, covering the lock screen, login screen, sudo and System Settings
 - 👀 **[klook](https://github.com/RishonDev/klook)**: Quick Look for KDE Plasma, so pressing Space in Dolphin previews the file
-- 🍎 **T2 Macs**: suspend, keyboard backlight and Touch Bar fixes ([t2-kbd-tb](https://github.com/RishonDev/t2-kbd-tb), [t2-upower](https://github.com/RishonDev/t2-upower)) and AMD GPU boot patches
 - ☕ **Java**: Swing desktop apps and libraries ([JADT](https://github.com/RishonDev/JADT), [AstraWriter](https://github.com/RishonDev/AstraWriter), [wine-installer](https://github.com/RishonDev/wine-installer))
 
 - 🌍 Based in India
